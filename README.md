@@ -1,7 +1,7 @@
 # ZeroXploit-Screen-version
 Install instructions :
 
-1 - Flash on a microsd of at least 4gb /n
+1 - Flash on a microsd of at least 4gb <br>
 2 - At the end of flashing in the microsd a new partition with name "boot" will appear, configure the file wpa-supplicant.conf
 3 - In the windows disk manager create a new partition in the remaining space (unalocated) of type fat32
 4 - Configure the ip of the console in the configuration page of the host (if it is done from the console the ip will be automatically recognized), this is for the binloader of the lcd screen menu
