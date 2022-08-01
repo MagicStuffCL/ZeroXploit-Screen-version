@@ -18,6 +18,11 @@ I leave the link available to buy the screen used in the mod:<br>
 
 https://es.aliexpress.com/item/32970035492.html?spm=a2g0o.order_list.0.0.7555194d6H2bfb&gatewayAdapt=glo2esp
 <br><br>
+
+Download link :<br>
+
+https://1fichier.com/?urbn9g1wd00oetkzww72
+
 ![alt text](https://i.ibb.co/sygKS1k/ss1.jpg)<br><br>
 
 ![alt text](https://i.ibb.co/r6m7r67/ss2.jpg)<br><br>
