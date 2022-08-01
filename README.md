@@ -27,3 +27,12 @@ https://es.aliexpress.com/item/32970035492.html?spm=a2g0o.order_list.0.0.7555194
 ![alt text](https://i.ibb.co/wR9HZhg/P-20220801-160405.jpg)<br><br>
 
 ![alt text](https://i.ibb.co/XDyb45Y/P-20220801-160432.jpg)<br><br>
+
+
+## Credits
+
+- [PaulJenkin](https://github.com/PaulJenkin/PS4RaspberryPi)
+- [SiSTR0](https://github.com/SiSTR0)
+- [ChendoChap](https://github.com/ChendoChap)
+- [sleirsgoevy](https://github.com/sleirsgoevy)
+- [Karo](https://kar0218.github.io/)
