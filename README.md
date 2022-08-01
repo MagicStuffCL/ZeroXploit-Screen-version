@@ -17,3 +17,13 @@ Install instructions :
 I leave the link available to buy the screen used in the mod:<br>
 
 https://es.aliexpress.com/item/32970035492.html?spm=a2g0o.order_list.0.0.7555194d6H2bfb&gatewayAdapt=glo2esp
+<br><br>
+![alt text](https://i.ibb.co/sygKS1k/ss1.jpg)<br><br>
+
+![alt text](https://i.ibb.co/r6m7r67/ss2.jpg)<br><br>
+
+![alt text](https://i.ibb.co/zm47y0r/unknown-1.png)<br><br>
+
+![alt text](https://i.ibb.co/wR9HZhg/P-20220801-160405.jpg)<br><br>
+
+![alt text](https://i.ibb.co/XDyb45Y/P-20220801-160432.jpg)<br><br>
