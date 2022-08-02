@@ -29,8 +29,6 @@ https://1fichier.com/?urbn9g1wd00oetkzww72
 
 ![alt text](https://i.ibb.co/zm47y0r/unknown-1.png)<br><br>
 
-![alt text](https://i.ibb.co/wR9HZhg/P-20220801-160405.jpg)<br><br>
-
 ![alt text](https://i.ibb.co/XDyb45Y/P-20220801-160432.jpg)<br><br>
 
 
